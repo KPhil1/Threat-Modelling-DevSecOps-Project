@@ -1,4 +1,4 @@
-**Controls Required:**
+# Controls Required:
 
 
 
@@ -14,4 +14,4 @@
 
 - Network traffic monitoring to detect suspicious activity.
 
-- Role-based access control (RBAC) to limit access to sensitive data and functionalities.
+- Role-Based Access Control (RBAC) to limit access to sensitive data and functionalities.
