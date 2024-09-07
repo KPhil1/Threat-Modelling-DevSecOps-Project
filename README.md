@@ -65,26 +65,6 @@ A total of 4 high risks and 1 medium risks were found during the threat modellin
 # Threat Modelling Process Summary
 
 
-```Mermaid
 
-mindmap
-  root((Attack Begins))
-    STRIDE / MITRE ATT&CK / Kill Chain
-      Conduct Inherent Risk Assessment
-      Create Critical Asset List
-        Schedule and Scope Threat Modelling Workshop
-    Controls Required
-      Risk Mitigations
-      Risk Summary
-        Remediation Workflow
-            Slack
-            JIRA
-    Attack Scenarios
-      Attack 1
-      Attack 2
-      Attack 3
-      Attack 4
-
-
-
-     
+![Threat Modelling Process Summary-2024-09-07-152103](https://github.com/user-attachments/assets/96f1e840-ccba-42e0-bf29-747c575273b0)
+  
