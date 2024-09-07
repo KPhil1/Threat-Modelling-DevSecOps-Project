@@ -38,7 +38,7 @@ All scenarios were run against the cyber attack kill chain, utilising the Mitre 
 
 ## Conclusion
 
-A total of 4 high risks and 1 medium risks were found during the threat modelling workshop.
+A total of 4 high risks and 1 medium risk were found during the threat modelling workshop.
 
 
 
