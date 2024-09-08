@@ -6,3 +6,7 @@ The attacker is an APT who has conducted advanced research on Medway Health. The
 
 # Methodology
 The attack sequence below utilises the MITRE ATT&CK framework along with the commonly used techniques. 
+
+
+
+![Attack 1 Sequence Summary-2024-09-08-131740](https://github.com/user-attachments/assets/52b29c10-233c-4060-897d-5f0a3d38cfcd)
