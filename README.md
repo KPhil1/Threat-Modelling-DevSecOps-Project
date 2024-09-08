@@ -26,7 +26,7 @@ Medway Care Connect Engineering team, Product Managers, DevEx Engineers and the 
 
 ## Scope
 
-We ran 4 scenarios covering: (1) AI Generated External phishing email utilising admin credentials, (2) Attack against Machine Processes and the data lake, (3) SQL Injection attack and (4) Insider attack taking Quant algorithms.
+We ran 4 scenarios covering: (1) AI-generated external phishing email utilising admin credentials, (2) Attack against Machine Processes and the data lake, (3) SQL Injection attack and (4) Insider attack taking Quant algorithms.
 
 
 
