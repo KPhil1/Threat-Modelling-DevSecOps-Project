@@ -1,4 +1,4 @@
-This is a mermaid diagram to illustrate an example of how to use STRIDE to demonstrate the current controls in place for the application, specific to attack scenario 3. 
+This is a mermaid diagram to illustrate how to use STRIDE to demonstrate the current controls in place for the application, specific to attack scenario 3. 
 
 
 
