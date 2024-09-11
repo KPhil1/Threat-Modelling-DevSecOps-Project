@@ -25,3 +25,7 @@ The attacker establishes a means of remote control over the compromised database
 
 ### Actions on Objectives
 With access to the Medway Health 360 application, the attacker can exfiltrate sensitive health data stored within the application's database. Additionally, the attacker may manipulate patient records, tamper with medical information, disrupt the application's functionality for malicious purposes, or use the compromised database as a pivot point to attack other connected systems.
+
+
+
+![Attack 3 DFD-2024-09-11-134838](https://github.com/user-attachments/assets/94229f15-1748-4de7-a2f8-0e930f4c361c)
