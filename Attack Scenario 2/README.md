@@ -1,4 +1,4 @@
-# Attack 1 Summary: AI-Generated External Phishing Email Utilising Admin Credentials
+# Attack 1 Summary: DDoS Attack on Medway Health App
 
 ## Stages of the Attack
 
@@ -6,19 +6,28 @@
 The attack is initiated by a threat actor leveraging a long history of cyber attack techniques. The attacker identifies the Medway Health 360 application as a target due to its sensitive health data and public-facing nature.
 
 ### Reconnaissance
-The attacker conducts research to identify vulnerabilities in the Medway Health 360 application. This includes gathering information about the application's architecture, technologies used, and potential weaknesses in its security measures.
+Attackers identify the Medway health app as a target. They gather information about the app's infrastructure, IP addresses, and potential vulnerabilities. The attackers determine the app's critical services and peak usage times.
 
 ### Weaponisation
-Exploit payloads are crafted specifically to target vulnerabilities identified in the Medway Health 360 application. Additionally, the attacker creates sophisticated phishing emails tailored to appear legitimate and enticing to users of the application.
+The attacker prepares a botnet or rents DDoS-for-hire services. They select attack vectors (e.g., UDP floods, SYN floods, HTTP floods) and configure attack tools and malware for maximum impact.
 
 ### Delivery
-Phishing emails containing malicious links or attachments are sent to users of the Medway Health 360 application. These emails may appear to come from trusted sources or mimic official communication from the application itself, increasing the likelihood of successful exploitation.
+No traditional malware delivery is required for most DDoS attacks. Instead, attackers prepare their botnet or DDoS infrastructure for the assault on the Medway health app. 
 
 ### Exploitation
-The attacker exploits vulnerabilities in the Medway Health 360 application, such as SQL injection or cross-site scripting (XSS) vulnerabilities, to gain unauthorised access. By exploiting these vulnerabilities, the attacker can execute arbitrary code or extract sensitive information from the application's database.
+The attacker launches the DDoS attack against the Medway health app. They overwhelm the app's servers with a flood of traffic from multiple sources. 
+The attacker exploits vulnerabilities in the Medway Health 360 application's infrastructure or network protocols.
 
 ### Installation
-Once access is gained, the attacker establishes a foothold within the Medway Health 360 application's infrastructure. This may involve creating backdoor accounts or implanting malware to maintain persistent access to the system.
+Not typically applicable in a DDoS attack scenario.  However, if the attack includes malware components, infected devices may become part of the botnet. 
+
+### Command and Control
+The attacker coordinates the botnet or DDoS infrastructure. They adjust attack parameters in real-time based on the target's response, potentially switching attack vectors if initial attempts are mitigated. 
 
 ### Actions on Objectives
-With access to the Medway Health 360 application, the attacker can exfiltrate sensitive health data stored within the application's database. Additionally, the attacker may manipulate patient records, tamper with medical information, or disrupt the application's functionality for malicious purposes.
+The attacker can disrupt the Medway health app's services. Additionally, the attacker may 
+prevent legitimate users from accessing critical healthcare information and potentially cause financial losses and reputational damage to the healthcare provider.
+
+
+
+
